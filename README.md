@@ -3,3 +3,4 @@
 
 1. Introdução a Programação e Pensamento Computacional;
 2. Git e GitHub;
+3. HTML5 e CSS3;
